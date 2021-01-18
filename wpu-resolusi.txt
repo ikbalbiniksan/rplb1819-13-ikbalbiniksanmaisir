@@ -1,0 +1,5 @@
+wpu resolusi
+-membuat design web 
+-membuat code web 
+-membuat front end
+-membuat back end
