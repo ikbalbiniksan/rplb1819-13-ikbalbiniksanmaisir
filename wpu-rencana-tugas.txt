@@ -1,0 +1,4 @@
+Rencana tugas
+-membuat design 
+-membuat web
+-membuat database
