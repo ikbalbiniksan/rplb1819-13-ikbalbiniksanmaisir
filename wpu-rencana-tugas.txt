@@ -1,4 +1,8 @@
 Rencana tugas
 -membuat design 
+ -logo
+ -tampilan web
 -membuat web
+ -membuat frontend
+ -membuat backend
 -membuat database
