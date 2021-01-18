@@ -6,3 +6,6 @@ Rencana tugas
  -membuat frontend
  -membuat backend
 -membuat database
+ -database petugas
+ -database guru
+ -database siswa
